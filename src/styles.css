@@ -9,6 +9,13 @@ hr {
     border-color: white;
 }
 
+td, th {
+    color: white;
+}
+
+.blanco {
+    color: white;
+}
 .puntero {
     cursor: pointer;
 }
