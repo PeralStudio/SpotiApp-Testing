@@ -6,6 +6,10 @@ body {
     
 }
 
+.col {
+    margin-top: 5vh;
+}
+
 hr {
     border-color: white;
 }
