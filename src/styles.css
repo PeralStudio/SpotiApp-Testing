@@ -6,6 +6,16 @@ body {
     
 }
 
+h1 {
+    text-align: center;
+    margin-top: 25px;
+    text-transform: uppercase;
+}
+
+.pad {
+    margin-top: 5vh;
+}
+
 .col {
     margin-top: 5vh;
 }
