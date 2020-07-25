@@ -10,6 +10,7 @@ import { HomeComponent } from './components/home/home.component';
 import { SearchComponent } from './components/search/search.component';
 import { ArtistaComponent } from './components/artista/artista.component';
 import { NavbarComponent } from './components/shared/navbar/navbar.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 
 // Importar rutas
@@ -24,6 +25,7 @@ import { DomseguroPipe } from './pipes/domseguro.pipe';
 
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -34,7 +36,8 @@ import { DomseguroPipe } from './pipes/domseguro.pipe';
     NoimagePipe,
     DomseguroPipe,
     TarjetasComponent,
-    LoadingComponent
+    LoadingComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
