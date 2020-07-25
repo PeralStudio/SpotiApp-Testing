@@ -1,9 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
 
 body {
-    background-color: black;
+    background-color: rgb(31, 30, 30);
     color: white !important;
     
+}
+
+.nav-item {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.badge {
+    color: rgb(250, 248, 248);
+    text-transform: uppercase;
 }
 
 h1 {
